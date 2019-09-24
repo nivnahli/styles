@@ -1,0 +1,72 @@
+/* Styles */
+
+body {
+	background-color: #e0b0b0;
+	color: #63585f;
+	font-family: lucida console, monaco, monospace; 
+	border-width: 4px;
+	border-style: double dotted; border-color: lavender;
+	box-shadow: inset 1px 1px 55px #000;}
+
+
+	
+	.container {
+  margin: 40px auto;
+  max-width: 450px;
+}
+
+li {
+  margin-bottom: 15px;
+  background-color: lavender;
+  border: 1px groove #63585f;
+  list-style-position: outside;
+  text-indent: 50px
+}
+  
+
+
+
+
+article {
+	max-width: 65em;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2em;
+	padding-bottom: 4em;
+
+
+}
+
+h1 {font-weight: 450;
+	font-size: 4.025em;
+	line-height: 1.25;
+	text-align: center;
+
+
+}
+
+h2 {
+	font-weight: normal;
+	text-transform: capitalize;
+	letter-spacing: -0.005em;
+}
+
+h3 {text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 1.5px;
+}
+h4 {text-transform: uppercase;
+	letter-spacing: 1.05px;
+	font-weight: bold;
+
+}
+
+p {
+	margin: 0 0 1em 0;
+	font-family: lucida console, monaco, monospace;
+	text-indent: 50px;
+
+
+
+}  
+
